@@ -7,3 +7,4 @@ numpy==1.23.5
 cloudpickle
 scikit-learn
 git+https://github.com/privacytrustlab/ml_privacy_meter.git@ac181a885815f85b3809317c247f422e6596cb4a
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
